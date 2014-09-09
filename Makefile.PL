@@ -12,7 +12,7 @@ test_requires 'Test::More' => '0.88';
 no_index 'directory' => qw{ t share inc};
 homepage 'http://padre.perlide.org/trac/wiki/PadrePluginMoose';
 bugtracker 'http://padre.perlide.org/';
-repository 'http://svn.perlide.org/padre/trunk/Padre-Plugin-Moose';
+repository 'https://github.com/PadreIDE/Padre-Plugin-Moose';
 
 install_share_with_mofiles;
 
